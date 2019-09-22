@@ -39,6 +39,7 @@ public class Jardines_p3 {
 	   }
 	   System.out.println("\n\nHighest rated issue "+ s[highI]+"\tRating:"+high);
 	   System.out.println("\nLowest rated Issue "+ s[lowI]+"\tRating: "+low);
+	   scnr.close();
 	   }
 	}
 
