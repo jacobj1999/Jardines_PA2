@@ -38,6 +38,7 @@ public class Jardines_p1 {
 	   n = scnr.nextInt();
 	   System.out.println("Encrypted number is: "+encrypt(n));
 	   System.out.println("Decrypted number is: "+decrypt(encrypt(n)));
+	   scnr.close();
 	}
 	}
 
